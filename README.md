@@ -9,6 +9,12 @@
     <li>CSS ✔️</li>
 </ul>
 
+<h3>Dependências utilizadas</h3>
+<ul>
+    <li>React-Youtube 📸<li>
+    <li>Movie-Trailer 🎬</li>
+</ul>
+
 <h2> Imagem do projeto </h2>
 <img src="./readme/netflix.gif"style="height: 400px">
 
