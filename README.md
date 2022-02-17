@@ -7,7 +7,7 @@
     <li>CSS ✔️</li>
 </ul>
 
-<h3>Dependências utilizadas</h3>
+<h2>Dependências utilizadas</h2>
 <ul>
     <li>React-Youtube 📸</li>
     <li>Movie-Trailer 🎬</li>
