@@ -9,7 +9,8 @@
 
 <h3>Dependências utilizadas</h3>
 <ul>
-    <li>React-Youtube 📸<li>🎬
+    <li>React-Youtube 📸</li>�
+    <li>Movie-Trailer 🎬</li>
 </ul>
 
 <h2> Imagem do projeto </h2>
