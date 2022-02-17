@@ -1,6 +1,4 @@
-<h1 align="center">Netflix clone</h1>
-<br>
-<h1>Projeto clone netflix</h1>
+<h1>Netflix Clone</h1>
 <p>Desenvolvido em ReactJS com integração da API TheMovieDB.</p>
 
 <h2>Tecnologias utilizadas</h2>
