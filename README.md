@@ -1,6 +1,9 @@
 <h1>Netflix Clone</h1>
 <p>Desenvolvido em ReactJS com integração da API TheMovieDB.</p>
 
+<h2>Visite o projeto</h2>
+https://netflix-azure-three.vercel.app/
+
 <h2>Tecnologias utilizadas</h2>
 <ul>
     <li>ReactJS ✔️</li>
